@@ -11,5 +11,13 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^30.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndk8863/learn-github-actions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ndk8863/learn-github-actions/issues"
+  },
+  "homepage": "https://github.com/ndk8863/learn-github-actions#readme"
 }
